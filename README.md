@@ -24,3 +24,5 @@ I use Anaconda. The easiest way to start is to create a new conda environment fo
 - conda config --env --add channels conda-forge
 - conda config --env --set channel_priority strict
 - conda install python=3 geopandas
+
+# Enjoy!

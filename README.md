@@ -4,7 +4,7 @@
 - Basic Python operations in Jupyter notebook.
 - Anaconda environment (or any other Python system).
 # How to use
-1. The CSV file will hold your data to be plotted by the jupyter notebook.
+1. The CSV file (our travel.csv) will hold your data to be plotted by the jupyter notebook.
 - TripID is the grouping of each travel group.
 - TripSeq is the consecutive series of each row belonging to the same group.
 - Country is the country you want to highlight in your map.
@@ -17,7 +17,7 @@
 - MarkerColor is the color to use, for both Marker and Circle.
 - Tooltip and Popup is the text you want to show when the pointer is hovering over it.
 2. You can edit the Jupiter notebook to customise your map, example, marker icon, line thickness, etc.
-3. A html file will be created which will show your travel map when open with most browsers, even on your mobile.
+3. A html file (ourTravelmap.html) will be created which will show your travel map when open with most browsers, even on your mobile.
 # Minimum operating environment
 I use Anaconda. The easiest way to start is to create a new conda environment for this. Installing new packages in your existing conda environment most likely will create some package incompatibilties. I am using python 3.10 for my new environment. Below is the steps I used.
 - conda create -n geo_env

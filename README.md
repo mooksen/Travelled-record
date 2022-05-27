@@ -1,7 +1,7 @@
 # Travelled-record
- This is a simple Jupyter notebook to create a map showing your travel records.
+ This is a simple Python Jupyter notebook (with folium) to create a map showing your travel records.
 # Required knowledge for using this
-- Basic Python operating in Jupyter notebook.
+- Basic Python operations in Jupyter notebook.
 - Anaconda environment (or any other Python system).
 # How to use
 1. The CSV file will hold your data to be plotted by the jupyter notebook.
@@ -17,6 +17,7 @@
 - MarkerColor is the color to use, for both Marker and Circle.
 - Tooltip and Popup is the text you want to show when the pointer is hovering over it.
 2. You can edit the Jupiter notebook to customise your map, example, marker icon, line thickness, etc.
+3. A html file will be created which will show your travel map when open with most browsers, even on your mobile.
 # Minimum operating environment
 I use Anaconda. The easiest way to start is to create a new conda environment for this. Installing new packages in your existing conda environment most likely will create some package incompatibilties. I am using python 3.10 for my new environment. Below is the steps I used.
 - conda create -n geo_env

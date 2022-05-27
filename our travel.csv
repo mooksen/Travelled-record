@@ -1,0 +1,25 @@
+﻿,TravelDate,TripID,TripSeq,Country,CountryColor,State,StateMap,StateMapKey,StateMapColor,City,Coordinates,RouteColor,Marker,Circle,MarkerColor,Tooltip,Popup
+1,1/1/2022,Europe_leisure,1,Netherlands,blue,,,,,Amsterdam,"[52.46781579168143, 4.84886762708611]",blue,1,0,blue,Amsterdam,Beware of bicycles!
+2,1/1/2022,Europe_leisure,2,Belgium,blue,,,,,Brussels,"[50.92262004679239, 4.285907645610362]",blue,0,1,blue,Brussels,Chocolates!
+3,1/1/2022,Europe_leisure,3,France,blue,,,,,Paris,"[48.95014541647598, 2.300357870508778]",blue,0,1,blue,Paris,Romanic city.
+4,1/1/2022,Thailand_shorttrip,1,Thailand,blue,,,,,Bangkok,"[13.767961097290273, 100.44513299788106]",,0,1,red,Bangkok,Is the world your oyster yet?
+6,1/1/2022,China_leisure,1,China,blue,陕西,china-provinces-simplified,NL_NAME_1,blue,西安,"[34.266171528359976, 108.95648905714172]",blue,1,0,blue,西安,秦始皇陵兵马俑
+7,1/1/2022,China_leisure,2,China,blue,宁夏,china-provinces-simplified,NL_NAME_1,blue,银川,"[38.57283329011176, 106.24934197823768]",blue,0,1,blue,银川,西夏王陵
+8,1/1/2022,China_leisure,3,China,blue,宁夏,china-provinces-simplified,NL_NAME_1,blue,中卫,"[37.63048974410651, 105.16680759877825]",blue,0,1,blue,中卫,沙坡头风景区
+11,1/1/2022,China_leisure,4,China,blue,甘肃,china-provinces-simplified,NL_NAME_1,blue,张掖,"[39.07074875761411, 100.45218209984878]",blue,0,1,blue,张掖,五彩山
+12,1/1/2022,China_leisure,5,China,blue,甘肃,china-provinces-simplified,NL_NAME_1,blue,酒泉,"[39.844920084679266, 98.50983583702859]",blue,0,1,blue,酒泉,嘉峪关
+13,1/1/2022,China_leisure,6,China,blue,甘肃,china-provinces-simplified,NL_NAME_1,blue,莫高窟,"[40.04206046481195, 94.80904435222169]",blue,0,1,blue,莫高窟,敦煌
+14,1/1/2022,China_leisure,7,China,blue,新疆,china-provinces-simplified,NL_NAME_1,blue,吐鲁番,"[43.02568430618445, 89.18564967022145]",blue,0,1,blue,吐鲁番,火焰山
+15,1/1/2022,China_leisure,8,China,blue,新疆,china-provinces-simplified,NL_NAME_1,blue,乌鲁木齐,"[43.900257353679606, 87.70302807975789]",blue,0,1,blue,乌鲁木齐,国际大巴扎
+18,1/1/2022,UK_leisure,1,United Kingdom,blue,,,,,Belfast,"[54.60546963677714, -5.9355257099284655]",blue,1,0,blue,Belfast,"Belfast, interesting history."
+19,1/1/2022,UK_leisure,2,United Kingdom,blue,,,,,Edinburgh,"[55.94949236274518, -3.1872756518071883]",blue,0,1,blue,Edinburgh,Nice tourish friendly city.
+20,1/1/2022,UK_leisure,3,United Kingdom,blue,,,,,London,"[51.58110971417051, -0.09866125359596971]",blue,0,1,blue,London,Fish and chips!
+22,1/1/2022,RC_VTS_Cruise,1,Singapore,red,,,,,Singapore,"[1.267303713864928, 103.85992787004652]",red,0,1,blue,Singapore Marina Bay Cruise Centre,Singapore Marina Bay Cruise Centre
+23,1/1/2022,RC_VTS_Cruise,2,,,,,,,Point,"[1.1910740449232793, 103.49279312382458]",,0,0,,,
+24,1/1/2022,RC_VTS_Cruise,3,,,,,,,Point,"[2.81070750881466, 101.07897424417806]",,0,0,,,
+25,1/1/2022,RC_VTS_Cruise,4,Malaysia,blue,,,,,Penang,"[5.418984247844413, 100.34573619602823]",red,0,1,blue,Penang Swettenham Pier,Penang Swettenham Pier
+26,1/1/2022,RC_VTS_Cruise,5,Malaysia,blue,,,,,Langkawi,"[6.25733796033035, 99.73303023675223]",red,0,1,blue,Langkawi Cruise Pier,Langkawi Cruise Pier
+27,1/1/2022,RC_VTS_Cruise,6,Thailand,blue,,,,,Phuket,"[7.886140971124763, 98.28903857154887]",red,0,1,blue,Phuket Patong Beach Tender,Phuket Patong Beach Tender
+28,1/1/2022,RC_VTS_Cruise,7,,,,,,,Point,"[2.81070750881466, 101.07897424417806]",,0,0,,,
+29,1/1/2022,RC_VTS_Cruise,8,,,,,,,Point,"[1.1910740449232793, 103.49279312382458]",,0,0,,,
+30,1/1/2022,RC_VTS_Cruise,9,Singapore,red,,,,,Singapore,"[1.267303713864928, 103.85992787004652]",red,0,0,blue,Singapore Marina Bay Cruise Centre,Singapore Marina Bay Cruise Centre

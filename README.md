@@ -1,6 +1,6 @@
 # Travelled-record
  This is a simple Python Jupyter notebook (with folium) to create a map showing your travel records.
-# Required knowledge for using this
+# Pre-requisite
 - Basic Python operations in Jupyter notebook.
 - Anaconda environment (or any other Python system).
 # How to use
